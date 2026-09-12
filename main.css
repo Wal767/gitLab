@@ -1,4 +1,6 @@
 div {
   background-color: red;
   padding: 9px ;
+  font-size: 23px ;
+  font-weight: bold; 
 }
